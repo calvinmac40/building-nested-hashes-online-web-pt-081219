@@ -24,4 +24,4 @@ def fourth_challenge
 end
 
 
-epic_tragedy[:montague][]
+epic_tragedy[:montague][:hero]
